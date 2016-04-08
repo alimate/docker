@@ -86,6 +86,9 @@ var (
 
 		// June Almeida - Scottish virologist who took the first pictures of the rubella virus - https://en.wikipedia.org/wiki/June_Almeida
 		"almeida",
+		
+		// Maria Gaetana Agnesi was an Italian mathematician, philosopher, theologian and humanitarian. She was the first woman to write a mathematics handbook and the first woman appointed as a Mathematics Professor at a University https://en.wikipedia.org/wiki/Maria_Gaetana_Agnesi
+		"agnesi",
 
 		// Archimedes was a physicist, engineer and mathematician who invented too many things to list them here. https://en.wikipedia.org/wiki/Archimedes
 		"archimedes",
